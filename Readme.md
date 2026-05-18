@@ -1,4 +1,4 @@
------- Amazon Clone --------
+# ------ Amazon Clone --------
 
 # Overview 
 A simple front-end Amazon homepage clone built using basic web development languages.
